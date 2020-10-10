@@ -9,6 +9,8 @@
 import requests
 import sys
 
+bing_base_url = "https://cn.bing.com/"
+
 headers = {
     'User-Agent':
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
@@ -16,22 +18,24 @@ headers = {
     'Connection': 'close'
 }
 
-bing_base_url = "https://cn.bing.com/"
 
-res = requests.get(bing_base_url + "HPImageArchive.aspx?format=js&idx=0&n=1",
-                   headers=headers)
-res.encoding = "utf-8"
-res_data = res.json().get('images')[0]
+def fetch_img():
+    """
+    return image url, image copyright and copyright link.
+    """
+    res = requests.get(bing_base_url +
+                       "HPImageArchive.aspx?format=js&idx=0&n=1",
+                       headers=headers)
+    res.encoding = "utf-8"
+    res_data = res.json().get('images')[0]
 
-img_url = bing_base_url + res_data.get('url')
-img_copyright = res_data.get('copyright')
-img_copyright_link = res_data.get('copyrightlink')
+    img_url = bing_base_url + res_data.get('url')
+    img_copyright = res_data.get('copyright')
+    img_copyright_link = res_data.get('copyrightlink')
+    return img_url, img_copyright, img_copyright_link
 
-with open("README.md", "rb") as f:
-    cur_read_me = f.read().decode("utf-8")
-    if img_copyright in cur_read_me:
-        print("POTD is just the same with yesterday, have a nice day :)")
-        sys.exit()
+
+img_url, img_copyright, img_copyright_link = fetch_img()
 
 new_read_me = f"""
 ![{img_copyright}]({img_url})
@@ -39,5 +43,19 @@ new_read_me = f"""
 *[{img_copyright}]({img_copyright_link})*
 """
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_read_me)
+
+def update_readme():
+    """
+    update readme file with latest image.
+    """
+    with open("README.md", "rb") as f:
+        cur_read_me = f.read().decode("utf-8")
+        if img_copyright in cur_read_me:
+            print("POTD is just the same with yesterday, have a nice day :)")
+            sys.exit()
+
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(new_read_me)
+
+
+update_readme()

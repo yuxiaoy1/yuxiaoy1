@@ -3,6 +3,8 @@ name: update profile
 on:
   schedule:
     - cron: '0 0 * * *'
+  issue_comment:
+    types: [created, deleted]
 
 jobs:
   build:
@@ -29,4 +31,3 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-
