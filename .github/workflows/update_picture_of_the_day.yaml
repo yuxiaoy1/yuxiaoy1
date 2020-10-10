@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --local user.email "1032897296@qq.com"
           git config --local user.name "yuxiaoy(bot)"
-          git commit -a -m "update picture of today on $(date +%Y-%m-%d)"
+          git commit -m "update picture of today on $(date +%Y-%m-%d)" -a
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
