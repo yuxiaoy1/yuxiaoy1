@@ -31,4 +31,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true # to resolve push failure issue ref to https://github.com/ad-m/github-push-action/issues/44#issuecomment-581950117
+          branch: main
+          # force: true # to resolve push failure issue ref to https://github.com/ad-m/github-push-action/issues/44#issuecomment-581950117
