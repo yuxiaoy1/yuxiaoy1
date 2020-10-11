@@ -2,7 +2,7 @@ name: update profile
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '1 1 * * *'
   issue_comment:
     types: [created, deleted]
 
@@ -30,6 +30,5 @@ jobs:
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          # branch: main
