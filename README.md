@@ -1,4 +1,4 @@
 
-![Aerial view of American flamingos flying over Los Roques Archipelago National Park, Venezuela (© Cristian Lourenco/Getty Images)](https://cn.bing.com//th?id=OHR.AmericanFlyer_EN-US0689904340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Monastery of Geghard, Armenia (© traumlichtfabrik/Getty Images)](https://cn.bing.com//th?id=OHR.GeghardMonastery_EN-US0782868879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Aerial view of American flamingos flying over Los Roques Archipelago National Park, Venezuela (© Cristian Lourenco/Getty Images)](https://www.bing.com/search?q=american+flamingo&form=hpcapt&filters=HpDate%3a%2220201010_0700%22)*
+*[Monastery of Geghard, Armenia (© traumlichtfabrik/Getty Images)](https://www.bing.com/search?q=geghard+monastery+armenia&form=hpcapt&filters=HpDate%3a%2220201011_0700%22)*
