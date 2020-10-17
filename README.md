@@ -1,4 +1,4 @@
 
-![Ochre sea star on kelp off the coast of California (© Ralph Pace/Minden Pictures)](https://cn.bing.com//th?id=OHR.OchreSeaStar_EN-US1746516942_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![View of a tractor and trailers of cabbage in a field in Sankt Pölten, Austria (© Stephan Zirwes/Getty Images)](https://cn.bing.com//th?id=OHR.WorldFoodDay_EN-US1932305468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Ochre sea star on kelp off the coast of California (© Ralph Pace/Minden Pictures)](https://www.bing.com/search?q=ochre+sea+star&form=hpcapt&filters=HpDate%3a%2220201015_0700%22)*
+*[View of a tractor and trailers of cabbage in a field in Sankt Pölten, Austria (© Stephan Zirwes/Getty Images)](https://www.bing.com/search?q=world+food+day&form=hpcapt&filters=HpDate%3a%2220201016_0700%22)*
