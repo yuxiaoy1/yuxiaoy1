@@ -1,4 +1,4 @@
 
-![The Dark Hedges in County Antrim, Northern Ireland (© VanderWolf Images/Shutterstock)](https://cn.bing.com//th?id=OHR.GreyLady_EN-US0986534396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Sky Rock petroglyphs in the Volcanic Tablelands near Bishop, California (© JTBaskinphoto/Getty Images)](https://cn.bing.com//th?id=OHR.SkyRock_EN-US1084520879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[The Dark Hedges in County Antrim, Northern Ireland (© VanderWolf Images/Shutterstock)](https://www.bing.com/search?q=dark+hedges+ireland&form=hpcapt&filters=HpDate%3a%2220201031_0700%22)*
+*[Sky Rock petroglyphs in the Volcanic Tablelands near Bishop, California (© JTBaskinphoto/Getty Images)](https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220201101_0700%22)*
