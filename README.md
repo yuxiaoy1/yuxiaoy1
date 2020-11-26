@@ -1,4 +1,4 @@
 
-![Huge waves crashing on rocks along Asilomar State Beach, Pacific Grove, California (© Sheila Haddad/Danita Delimont)](https://cn.bing.com//th?id=OHR.AsilomarSB_EN-US8366690151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![A grove of American elm trees at Central Park's Mall, New York City (© AWL Images/Danita Delimont)](https://cn.bing.com//th?id=OHR.CPMall_EN-US8473128519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Huge waves crashing on rocks along Asilomar State Beach, Pacific Grove, California (© Sheila Haddad/Danita Delimont)](https://www.bing.com/search?q=asilomar+state+beach&form=hpcapt&filters=HpDate%3a%2220201124_0800%22)*
+*[A grove of American elm trees at Central Park's Mall, New York City (© AWL Images/Danita Delimont)](https://www.bing.com/search?q=the+mall+central+park+new+york+city+&FORM=hpcapt&filters=HpDate%3a%2220201125_0800%22)*
