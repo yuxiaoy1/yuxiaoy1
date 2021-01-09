@@ -1,4 +1,4 @@
 
-![White Cliffs of Dover, England (© LisaValder/Getty Images)](https://cn.bing.com//th?id=OHR.WhiteCliffs_EN-US5777446191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Foucault pendulum at the Panthéon in Paris, France (© Adolf/Adobe Stock)](https://cn.bing.com//th?id=OHR.FoucaultsPendulum_EN-US5851164547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[White Cliffs of Dover, England (© LisaValder/Getty Images)](https://www.bing.com/search?q=white+cliffs+of+dover&form=hpcapt&filters=HpDate%3a%2220210107_0800%22)*
+*[Foucault pendulum at the Panthéon in Paris, France (© Adolf/Adobe Stock)](https://www.bing.com/search?q=foucault+pendulum+definition&FORM=hpcapt&filters=HpDate%3a%2220210108_0800%22)*
