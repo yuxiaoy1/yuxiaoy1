@@ -1,4 +1,4 @@
 
-![Mount Sefton in Aoraki/Mount Cook National Park, South Island, New Zealand (© AWL Images/Danita Delimont)](https://cn.bing.com//th?id=OHR.MountSefton_EN-US9792326237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Great gray owls in Montreal, Canada (© rollandgelly/Getty Images)](https://cn.bing.com//th?id=OHR.SuperbOwl_EN-US9869366116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Mount Sefton in Aoraki/Mount Cook National Park, South Island, New Zealand (© AWL Images/Danita Delimont)](https://www.bing.com/search?q=Aoraki+Mount+Cook+National+Park+New+Zealand&form=hpcapt&filters=HpDate%3a%2220210206_0800%22)*
+*[Great gray owls in Montreal, Canada (© rollandgelly/Getty Images)](https://www.bing.com/search?q=great+gray+owl&form=hpcapt&filters=HpDate%3a%2220210207_0800%22)*
