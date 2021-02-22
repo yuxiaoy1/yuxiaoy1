@@ -1,4 +1,4 @@
 
-![Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.AABday_EN-US6703996640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Porto, Portugal (© Kanuman/Shutterstock)](https://cn.bing.com//th?id=OHR.Porto_EN-US6858177103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/search?q=yosemite+national+park+ansel+adams&form=hpcapt&filters=HpDate%3a%2220210220_0800%22)*
+*[Porto, Portugal (© Kanuman/Shutterstock)](https://www.bing.com/search?q=porto&form=hpcapt&filters=HpDate%3a%2220210221_0800%22)*
