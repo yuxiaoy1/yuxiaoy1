@@ -1,4 +1,4 @@
 
-![Porto, Portugal (© Kanuman/Shutterstock)](https://cn.bing.com//th?id=OHR.Porto_EN-US6858177103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+!['Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)](https://cn.bing.com//th?id=OHR.InvisibleMan_EN-US6967873703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Porto, Portugal (© Kanuman/Shutterstock)](https://www.bing.com/search?q=porto&form=hpcapt&filters=HpDate%3a%2220210221_0800%22)*
+*['Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)](https://www.bing.com/search?q=ralph+ellison+memorial&form=hpcapt&filters=HpDate%3a%2220210222_0800%22)*
