@@ -1,4 +1,4 @@
 
-![Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)](https://cn.bing.com//th?id=OHR.TwinsDenning_EN-US9910127756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Turf farmhouses at Skaftafell, Vatnajökull National Park, Iceland (© Jarcosa/Getty Images)](https://cn.bing.com//th?id=OHR.TurfHouse_EN-US9990506269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)](https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220210227_0800%22)*
+*[Turf farmhouses at Skaftafell, Vatnajökull National Park, Iceland (© Jarcosa/Getty Images)](https://www.bing.com/search?q=iceland+turf+houses&form=hpcapt&filters=HpDate%3a%2220210228_0800%22)*
