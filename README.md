@@ -1,4 +1,4 @@
 
-![Komodo National Park, Indonesia (© Thrithot/Adobe Stock)](https://cn.bing.com//th?id=OHR.PadarIsland_EN-US0491336626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Great blue herons in the Wakodahatchee Wetlands, Delray Beach, Florida (© Marie Hickman/Getty Images)](https://cn.bing.com//th?id=OHR.Wakodahatchee_EN-US0593250314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Komodo National Park, Indonesia (© Thrithot/Adobe Stock)](https://www.bing.com/search?q=komodo+national+park&form=hpcapt&filters=HpDate%3a%2220210306_0800%22)*
+*[Great blue herons in the Wakodahatchee Wetlands, Delray Beach, Florida (© Marie Hickman/Getty Images)](https://www.bing.com/search?q=great+blue+heron&form=hpcapt&filters=HpDate%3a%2220210307_0800%22)*
