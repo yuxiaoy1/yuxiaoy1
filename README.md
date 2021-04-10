@@ -1,4 +1,4 @@
 
-![Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)](https://cn.bing.com//th?id=OHR.TetraoTetrix_EN-US8933698445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com//th?id=OHR.HovenweepDarkSky_EN-US6328400931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)](https://www.bing.com/search?q=black+grouse+lekking&form=hpcapt&filters=HpDate%3a%2220210408_0700%22)*
+*[Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://www.bing.com/search?q=hovenweep+national+monument&form=hpcapt&filters=HpDate%3a%2220210409_0700%22)*
