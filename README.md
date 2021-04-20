@@ -1,4 +1,4 @@
 
-![Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.MontalbanoElicona_EN-US7629651237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mobula_EN-US7757384682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)](https://www.bing.com/search?q=Montalbano+Elicona+Sicily&form=hpcapt&filters=HpDate%3a%2220210418_0700%22)*
+*[Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://www.bing.com/search?q=Mobula+munkiana&form=hpcapt&filters=HpDate%3a%2220210419_0700%22)*
