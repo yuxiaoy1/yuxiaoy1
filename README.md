@@ -1,4 +1,4 @@
 
-![Casa Batlló in Barcelona, Catalonia, Spain (© Marco Arduino/Sime/eStock Photo)](https://cn.bing.com//th?id=OHR.BatlloJordi_EN-US0619227174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.ChollaGarden_EN-US0706816050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Casa Batlló in Barcelona, Catalonia, Spain (© Marco Arduino/Sime/eStock Photo)](https://www.bing.com/search?q=casa+batllo&form=hpcapt&filters=HpDate%3a%2220210423_0700%22)*
+*[The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)](https://www.bing.com/search?q=cholla+garden+joshua+tree+national+park&form=hpcapt&filters=HpDate%3a%2220210424_0700%22)*
