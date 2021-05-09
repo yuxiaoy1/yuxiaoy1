@@ -1,4 +1,4 @@
 
-![Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.MaineWetland_EN-US3940841989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Black-tailed godwits, Netherlands (© Edward van Altena/Minden Pictures)](https://cn.bing.com//th?id=OHR.LimosaLimosa_EN-US4076563094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://www.bing.com/search?q=american+wetlands+month&form=hpcapt&filters=HpDate%3a%2220210507_0700%22)*
+*[Black-tailed godwits, Netherlands (© Edward van Altena/Minden Pictures)](https://www.bing.com/search?q=black-tailed+godwit&form=hpcapt&filters=HpDate%3a%2220210508_0700%22)*
