@@ -1,4 +1,4 @@
 
-![Amazon rainforest with morning fog near Alta Floresta, Mato Grosso, Brazil (© Pulsar Imagens/Alamy)](https://cn.bing.com//th?id=OHR.AltaFloresta_EN-US4736416258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile (© Matteo Omied/Alamy)](https://cn.bing.com//th?id=OHR.ParanalStars_EN-US4851647464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Amazon rainforest with morning fog near Alta Floresta, Mato Grosso, Brazil (© Pulsar Imagens/Alamy)](https://www.bing.com/search?q=amazon+rainforest&form=hpcapt&filters=HpDate%3a%2220210514_0700%22)*
+*[Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile (© Matteo Omied/Alamy)](https://www.bing.com/search?q=astronomy+day&form=hpcapt&filters=HpDate%3a%2220210515_0700%22)*
