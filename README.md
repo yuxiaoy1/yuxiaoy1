@@ -1,4 +1,4 @@
 
-![The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)](https://cn.bing.com//th?id=OHR.CapeofTossa_EN-US6969132211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)](https://cn.bing.com//th?id=OHR.RoseRoom_EN-US7194472524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)](https://www.bing.com/search?q=tossa+de+mar+spain&form=hpcapt&filters=HpDate%3a%2220210522_0700%22)*
+*[The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)](https://www.bing.com/search?q=new+york+public+library+main+branch&form=hpcapt&filters=HpDate%3a%2220210523_0700%22)*
