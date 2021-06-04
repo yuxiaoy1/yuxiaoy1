@@ -1,4 +1,4 @@
 
-![Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://cn.bing.com//th?id=OHR.EstoshaSpringbok_EN-US8878416660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Cyclists on a wooden suspension bridge over the Soča River in Slovenia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.SocaCycles_EN-US8987262585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://www.bing.com/search?q=springbok+antelope&form=hpcapt&filters=HpDate%3a%2220210602_0700%22)*
+*[Cyclists on a wooden suspension bridge over the Soča River in Slovenia (© Amazing Aerial Agency/Offset by Shutterstock)](https://www.bing.com/search?q=world+bicycle+day&FORM=hpcapt&filters=HpDate%3a%2220210603_0700%22)*
