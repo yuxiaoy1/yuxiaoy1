@@ -1,4 +1,4 @@
 
-![Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)](https://cn.bing.com//th?id=OHR.LCPAPride_EN-US5979726065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://cn.bing.com//th?id=OHR.Cittadella_EN-US6067516722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)](https://www.bing.com/search?q=pride+day&form=hpcapt&filters=HpDate%3a%2220210627_0700%22)*
+*[The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://www.bing.com/search?q=gozo+malta&form=hpcapt&filters=HpDate%3a%2220210628_0700%22)*
