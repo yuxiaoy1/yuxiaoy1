@@ -1,4 +1,4 @@
 
-![A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com//th?id=OHR.LoepaOberthuri_EN-US7208560265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)](https://cn.bing.com//th?id=OHR.LouvreRiders_EN-US7293709223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://www.bing.com/search?q=Moth+Week&form=hpcapt&filters=HpDate%3a%2220210717_0700%22)*
+*[Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)](https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220210718_0700%22)*
