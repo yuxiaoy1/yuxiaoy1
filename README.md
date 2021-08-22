@@ -1,4 +1,4 @@
 
-![Rub' al Khali desert on the border of Oman and the Emirate of Dubai (© Daniel Schoenen/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.EmptyQuarter_EN-US0636903975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Petit Minou Lighthouse in the roadstead of Brest, Finistère, France (© Mathieu Rivrin/Getty Images)](https://cn.bing.com//th?id=OHR.PetitMinou_EN-US0740676794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Rub' al Khali desert on the border of Oman and the Emirate of Dubai (© Daniel Schoenen/Offset by Shutterstock)](https://www.bing.com/search?q=rub%27+al+khali+desert&form=hpcapt&filters=HpDate%3a%2220210820_0700%22)*
+*[Petit Minou Lighthouse in the roadstead of Brest, Finistère, France (© Mathieu Rivrin/Getty Images)](https://www.bing.com/search?q=Petit+Minou+Lighthouse&form=hpcapt&filters=HpDate%3a%2220210821_0700%22)*
