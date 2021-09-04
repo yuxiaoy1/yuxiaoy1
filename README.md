@@ -1,4 +1,4 @@
 
-![Porto Flavia, Sardinia, Italy (© Visualframing/Adobe Stock)](https://cn.bing.com//th?id=OHR.PortoFlavia_EN-US2814580222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.AlienEggs_EN-US2920727413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Porto Flavia, Sardinia, Italy (© Visualframing/Adobe Stock)](https://www.bing.com/search?q=Porto+Flavia+Sardinia+Italy&form=hpcapt&filters=HpDate%3a%2220210902_0700%22)*
+*[The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/search?q=Bisti%2fDe-Na-Zin+Wilderness&form=hpcapt&filters=HpDate%3a%2220210903_0700%22)*
