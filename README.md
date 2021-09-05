@@ -1,4 +1,4 @@
 
-![The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.AlienEggs_EN-US2920727413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Anna's hummingbird (© Dee/Getty Images)](https://cn.bing.com//th?id=OHR.AnnasHummingbird_EN-US3031304085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/search?q=Bisti%2fDe-Na-Zin+Wilderness&form=hpcapt&filters=HpDate%3a%2220210903_0700%22)*
+*[Anna's hummingbird (© Dee/Getty Images)](https://www.bing.com/search?q=anna%27s+hummingbird&form=hpcapt&filters=HpDate%3a%2220210904_0700%22)*
