@@ -1,4 +1,4 @@
 
-![Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://cn.bing.com//th?id=OHR.Kindergarteners_EN-US1789862407_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://cn.bing.com//th?id=OHR.SWColorado_EN-US1870553135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://www.bing.com/search?q=world+teachers+day&form=hpcapt&filters=HpDate%3a%2220211005_0700%22)*
+*[Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://www.bing.com/search?q=dallas+divide+colorado&form=hpcapt&filters=HpDate%3a%2220211006_0700%22)*
