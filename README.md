@@ -1,4 +1,4 @@
 
-![Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)](https://cn.bing.com//th?id=OHR.SandhillApache_EN-US7367797025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Rainbow abalone shell, New Zealand (© Lynda Harper/Minden Pictures)](https://cn.bing.com//th?id=OHR.AbaloneShell_EN-US7461837233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)](https://www.bing.com/search?q=sandhill+cranes&form=hpcapt&filters=HpDate%3a%2220211009_0700%22)*
+*[Rainbow abalone shell, New Zealand (© Lynda Harper/Minden Pictures)](https://www.bing.com/search?q=haliotis+iris&form=hpcapt&filters=HpDate%3a%2220211010_0700%22)*
