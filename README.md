@@ -1,4 +1,4 @@
 
-![Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](https://cn.bing.com//th?id=OHR.Dargavs_EN-US4957085337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](https://cn.bing.com//th?id=OHR.UnkindnessRavens_EN-US5051823062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](https://www.bing.com/search?q=dargavs+necropolis&form=hpcapt&filters=HpDate%3a%2220211028_0700%22)*
+*[Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](https://www.bing.com/search?q=raven+bird&form=hpcapt&filters=HpDate%3a%2220211029_0700%22)*
