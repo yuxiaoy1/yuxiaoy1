@@ -1,4 +1,4 @@
 
-![Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com//th?id=OHR.MoonJellyDay_EN-US5774626244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](https://cn.bing.com//th?id=OHR.DiwaliLights_EN-US5962582715_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](https://www.bing.com/search?q=world+jellyfish+day&form=hpcapt&filters=HpDate%3a%2220211103_0700%22)*
+*[Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](https://www.bing.com/search?q=diwali&form=hpcapt&filters=HpDate%3a%2220211104_0700%22)*
