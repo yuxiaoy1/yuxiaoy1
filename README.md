@@ -1,4 +1,4 @@
 
-![Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](https://cn.bing.com//th?id=OHR.ChurchillBears_EN-US8757524982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](https://cn.bing.com//th?id=OHR.DalyanTombs_EN-US8809333529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-*[Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220211108_0800%22)*
+*[Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](https://www.bing.com/search?q=Kaunos+anatolia&FORM=hpcapt&filters=HpDate%3a%2220211109_0800%22)*
